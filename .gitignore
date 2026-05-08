@@ -1,0 +1,12 @@
+# ---------- Rust ----------
+/target/
+**/target/
+**/*.rs.bk
+# ---------- Editor / OS ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# ---------- Entorno local ----------
+.env
+.env.*
