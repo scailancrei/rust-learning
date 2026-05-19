@@ -6,4 +6,5 @@ members = [
     "guessing_game",
     "loops",
     "ownership",
+    "referencia",
 ]
