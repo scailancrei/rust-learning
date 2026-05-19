@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "hola_rust",
+    "hola_cargo",
+    "guessing_game",
+    "loops",
+    "ownership",
+    "referencia",
+]
