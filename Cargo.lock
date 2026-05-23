@@ -112,6 +112,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
 name = "referencia"
 version = "0.1.0"
 
