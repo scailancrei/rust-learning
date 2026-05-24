@@ -9,6 +9,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9330f8b2ff13f34540b44e946ef35111825727b38d33286ef986142615121801"
 
 [[package]]
+name = "definiciones"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -108,11 +112,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
 name = "referencia"
 version = "0.1.0"
 
 [[package]]
 name = "rust-learning"
+version = "0.1.0"
+
+[[package]]
+name = "slices"
 version = "0.1.0"
 
 [[package]]
