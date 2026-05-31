@@ -6,5 +6,5 @@ members = [
     "guessing_game",
     "loops",
     "ownership",
-    "referencia", "slices", "definiciones", "rectangles", "enums",
+    "referencia", "slices", "definiciones", "rectangles", "enums", "if_let",
 ]
