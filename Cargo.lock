@@ -13,6 +13,10 @@ name = "definiciones"
 version = "0.1.0"
 
 [[package]]
+name = "enums"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -33,6 +37,10 @@ dependencies = [
 
 [[package]]
 name = "hola_cargo"
+version = "0.1.0"
+
+[[package]]
+name = "if_let"
 version = "0.1.0"
 
 [[package]]
@@ -117,6 +125,10 @@ version = "0.1.0"
 
 [[package]]
 name = "referencia"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
 version = "0.1.0"
 
 [[package]]
