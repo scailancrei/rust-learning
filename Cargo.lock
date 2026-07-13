@@ -21,6 +21,10 @@ name = "enums"
 version = "0.1.0"
 
 [[package]]
+name = "genericos_y_traits_y_lifetimes"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
